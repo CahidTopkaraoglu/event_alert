@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    tools:context=".EventCalendarActivity" >
+
+    <CalendarView
+        android:id="@+id/calendarView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusableInTouchMode="false"
+        android:focusedByDefault="false"
+        android:focusedMonthDateColor="#673AB7"
+        android:selectedWeekBackgroundColor="#FFFFFF"
+        android:unfocusedMonthDateColor="#F5F5F5"
+        android:weekNumberColor="#f5f5f5"
+        android:weekSeparatorLineColor="#f5f5f5" />
+</RelativeLayout>

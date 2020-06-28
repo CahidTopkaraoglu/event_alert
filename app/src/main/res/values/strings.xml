@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EventAlert</string>
+    <string name="event_list_title">EVENT ALERT</string>
+    <string name="event_calendar_button">CALENDAR</string>
+    <string name="add_event_button">ADD EVENT</string>
+    <string name="event_list_header">EVENT LIST</string>
+    <string name="event_name_label">Event Name</string>
+    <string name="event_description_label">Event Description</string>
+    <string name="event_image_description">Event Image</string>
+    <string name="add_event_description">Add Event Logo</string>
+
+    <string name="eventname_string">Event Name</string>
+    <string name="enter_eventname_hint">Enter event name</string>
+    <string name="eventdescription_string">Event Description</string>
+    <string name="enter_eventdescription_hint">Enter event description</string>
+    <string name="eventtime_string">Event Time</string>
+    <string name="eventimage_string">Event Image</string>
+    <string name="eventimage_hint">Select event image</string>
+
+    <string name="add_alert_string">Add Event</string>
+</resources>
